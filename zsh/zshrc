@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+source ~/code/dotfiles/zsh/prompt
+
+export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"

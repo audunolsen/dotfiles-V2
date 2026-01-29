@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+PROMPT="%B%(?.%T%F{green} |%f.%F{red}%T |%f)%b "

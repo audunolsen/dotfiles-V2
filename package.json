@@ -1,0 +1,20 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "dotfiles V2",
+  "license": "ISC",
+  "author": "Audun Meek Olsen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "node sync.ts"
+  },
+  "devDependencies": {
+    "@types/node": "25.1.0",
+    "prettier": "3.8.1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}

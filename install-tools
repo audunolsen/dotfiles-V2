@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+# A script that parses the included .tool-versions file to find all
+# the needed plugins that are needed, and finally runs an install of
+# all tool versions specified
+
